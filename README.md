@@ -91,4 +91,4 @@ Suggestions and feedback are always welcome. Feel free to fork the repository an
 
 ---
 
-**Happy Coding! 💻**
+**Happy Coding! **
