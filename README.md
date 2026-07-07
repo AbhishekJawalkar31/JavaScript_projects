@@ -89,4 +89,6 @@ JavaScript Mini Projects
 
 Suggestions and feedback are always welcome. Feel free to fork the repository and create a pull request.
 
+**Happy Coding! 💻**
+
 ---
