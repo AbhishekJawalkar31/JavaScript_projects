@@ -8,7 +8,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-top: 80px;
+    margin-top: 25px;
 }
 
 form {
@@ -32,4 +32,11 @@ form {
     border-radius: 7px;
     background-color: rgb(34, 34, 34);
     color: white;
+}
+
+.resultParas {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
