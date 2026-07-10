@@ -1,0 +1,29 @@
+body {
+    background-color: #414141;
+    color: #f1f1f1;
+}
+
+.container {
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttons {
+    display: flex;
+    gap: 15px;
+}
+
+#start {
+    width: 50px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+#stop {
+    width: 50px;
+    height: 30px;
+    border-radius: 5px;   
+}
